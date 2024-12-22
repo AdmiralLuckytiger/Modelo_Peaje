@@ -29,7 +29,7 @@ Estos casos se evaluan con dos distribuciónes:
     - 2 puestos para coches prepago
     - 1 puesto para camiones  
 
-> [!Nota]
+> [!NOTE]
 > Aunque sería interesante evaluar más distribuciones no es el objetivo del proyecto y se 
 > busca limitar el alcance de este.
 
